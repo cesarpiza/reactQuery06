@@ -1,0 +1,41 @@
+{
+    "conditions": [
+      {
+        "id": 1,
+        "title": "Post 1",
+        "content": "Conteúdo do post 1",
+        "views": 8000
+      },
+      {
+        "id": 2,
+        "title": "Post 2",
+        "content": "Conteúdo do post 2",
+        "views": 8500
+      },
+      {
+        "id": 3,
+        "title": "Post 3",
+        "content": "Conteúdo do post 3",
+        "views": 8900
+      },
+      {
+        "id": 4,
+        "title": "Post 4",
+        "content": "Conteúdo do post 4",
+        "views": 9000
+      },
+      {
+        "id": 5,
+        "title": "Post 5",
+        "content": "Conteúdo do post 5",
+        "views": 20000
+      },
+      {
+        "id": 6,
+        "title": "Post 6",
+        "content": "Conteúdo do post 6",
+        "views": 25000
+      }
+    ]
+  }
+  
